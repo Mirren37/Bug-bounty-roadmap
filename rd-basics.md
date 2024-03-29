@@ -1,9 +1,5 @@
-# Bug bounty Basics
-My own roadmap of bug bounty basics
-
-Before diving into bug bounty hunting, it is critical to have a solid understanding of how the internet and computer networks work. Understanding key concepts such as Transmission Control Protocol (TCP), a fundamental protocol used for transmitting data over the internet and other networks, is essential. Also, it is critical to understand networking concepts such as IP addresses, subnetting, and routing, which are all critical components of how devices communicate on a network. Another crucial concept to grasp is Domain Name System (DNS), which is in charge of converting human-readable domain names (such as google.com) into machine-readable IP addresses.
-
-Understanding these concepts will provide a solid foundation for your bug bounty hunting journey, allowing you to better understand and navigate the various systems and networks you will encounter.
+# Bug bounty fundamental
+<p><img src="https://github.com/Mirren37/Bug-bounty-roadmap/assets/37774980/b9d5bdd2-efe2-47b1-b8ae-ddf1b70441c1"></p>
 
 ### Table of Contents
 -  [HTTP basics](#HTTP-basics)
