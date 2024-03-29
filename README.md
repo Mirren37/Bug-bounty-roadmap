@@ -13,8 +13,6 @@ Understanding these concepts will provide a solid foundation for your bug bounty
 -  [Automation](#Automation)
 -  [Linux basics](#Linux-Basics)
 -  [Web Server Basics](#Web-Server-Basics)
--  [Computing Fundamentals](#Computing-Fundamentals)
--  [Hacking Basics](#Hacking-Basics)
 
 ### HTTP basics
 In order to be able to learn what and how an application works, you need to be able to understand how you are communicating with it. This section is dedicated to all the resources to understand the HTTP basics.
