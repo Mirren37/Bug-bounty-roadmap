@@ -76,6 +76,8 @@ After creating your own web server, I highly recommend installing a CMS (like Wo
 - [How to use curl](https://flaviocopes.com/http-curl/)
 - [Loops](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html)
 - [xargs](https://www.cyberciti.biz/faq/linux-unix-bsd-xargs-construct-argument-lists-utility/)
+- CyberMentor Kali Linux https://www.youtube.com/watch?v=U1w4T03B30I
+- Kali Linux https://www.youtube.com/watch?v=ElWo5fd4rIU&list=PLYmlEoSHldN7HJapyiQ8kFLUsk_a7EjCw
 
 #### Linux Basics Videos
 - [How to Install Ubuntu on Windows 10 (WSL)] (https://www.youtube.com/watch?v=X-DHaQLrBi8)
