@@ -9,6 +9,10 @@
 -  [Linux basics](#Linux-Basics)
 -  [Web Server Basics](#Web-Server-Basics)
 
+### Usefull podcasts to watch
+https://www.youtube.com/watch?v=YJUVNlmIO6E&t=1348s
+
+
 ### HTTP basics
 In order to be able to learn what and how an application works, you need to be able to understand how you are communicating with it. This section is dedicated to all the resources to understand the HTTP basics.
 - [All in one resource](https://www.hacker101.com/sessions/web_in_depth)
