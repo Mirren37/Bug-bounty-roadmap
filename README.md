@@ -12,6 +12,9 @@
 ### Usefull podcasts to watch
 https://www.youtube.com/watch?v=YJUVNlmIO6E&t=1348s
 
+### Usefull materials
+https://github.com/Samsar4/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/1-Lab-Building.md
+
 
 ### HTTP basics
 In order to be able to learn what and how an application works, you need to be able to understand how you are communicating with it. This section is dedicated to all the resources to understand the HTTP basics.
