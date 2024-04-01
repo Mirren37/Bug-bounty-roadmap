@@ -12,6 +12,7 @@
 ### Usefull podcasts/videos
 https://www.youtube.com/watch?v=YJUVNlmIO6E&t=1348s
 https://www.youtube.com/watch?v=tRijLaXxSwU&t=168s
+https://www.youtube.com/watch?v=QqrK294l_oI&t=551s
 
 ### Usefull materials
 https://github.com/Samsar4/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/1-Lab-Building.md
