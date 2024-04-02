@@ -77,7 +77,7 @@ If you are looking into getting started with Bug Bounties with a focus on web, I
 - [Installing Apache, MySQL, PHP on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04)
 - [Setting Up Your Ubuntu Box for Pentest and Bug Bounty Automation](https://www.youtube.com/watch?v=YhUiAH5SIqk)
 
-After creating your own web server, I highly recommend installing a CMS (like Wordpress or drupal) on your localhost to understand how it all works.
+- After creating your own web server, I highly recommend installing a CMS (like Wordpress or drupal) on your localhost to understand how it all works.
 
 ### Linux Basics
 - [Install WSL on Windows 10](https://ubuntu.com/wsl)
